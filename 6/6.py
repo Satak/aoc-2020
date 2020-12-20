@@ -22,6 +22,9 @@ In the third group, everyone answered yes to only 1 question, a. Since some peop
 In the fourth group, everyone answered yes to only 1 question, a.
 In the fifth group, everyone (all 1 person) answered "yes" to 1 question, b.
 In this example, the sum of these counts is 3 + 0 + 1 + 1 + 1 = 6.
+
+
+--- use set intersect
 '''
 
 import os
